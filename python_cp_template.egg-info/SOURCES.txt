@@ -1,0 +1,7 @@
+README.md
+python_cp_template.py
+setup.py
+python_cp_template.egg-info/PKG-INFO
+python_cp_template.egg-info/SOURCES.txt
+python_cp_template.egg-info/dependency_links.txt
+python_cp_template.egg-info/top_level.txt
